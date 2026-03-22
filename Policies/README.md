@@ -52,18 +52,8 @@ This project demonstrates practical implementation of GRC in a Web3 environment,
 
 ---
 ## 📂 Project Structure
-Web3-GRC-ISO27001-Project/
-│
-├── README.md
-├── Risk_Register.pdf
-├── Risk_Treatment_Plan.pdf
-├── Audit_Report.pdf
-├── ISO_Control_Mapping.pdf
-├── Flowchart.png
-│
-└── Policies/
-    ├── Information_Security_Policy.pdf
-    ├── Access_Control_Policy.pdf
+<img width="535" height="355" alt="image" src="https://github.com/user-attachments/assets/b1d36de9-6944-4ea9-a991-f6ab81e58379" />
+
 
 ## 👨‍💻 Author
 
